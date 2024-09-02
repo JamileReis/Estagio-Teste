@@ -1,4 +1,4 @@
-package Estagio.Questoes;
+package Estagio.QuestaoDois;
 
 import java.util.Scanner;
 
