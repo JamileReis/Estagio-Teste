@@ -1,3 +1,5 @@
+package Estagio.Loops;
+
 import java.util.Scanner;
 
 public class Loops {
